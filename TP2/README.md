@@ -14,6 +14,4 @@ https://docs.google.com/document/d/1Q27n2Pj-siuLBfLliyfonlbgIpTR2NXxWTNeAhEmIFA/
 
 # Presentación
 
-https://docs.google.com/presentation/d/1P_Eta5XqYSSyJ0hHlKuRMU0vfQlIpyqcbIE2pWNn5lY/edit?usp=sharing
-
 https://drive.google.com/file/d/13_OFG9jrNiVJ73Gr8bqRp8yPNJKajP2g/view?usp=sharing

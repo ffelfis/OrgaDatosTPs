@@ -11,3 +11,7 @@ Cada grupo puede hacer 3 subidas por día. El día termina a las 21:00 hs.
 # Ideas para el guión del video
 
 https://docs.google.com/document/d/1Q27n2Pj-siuLBfLliyfonlbgIpTR2NXxWTNeAhEmIFA/edit?usp=sharing
+
+# Presentación
+
+https://docs.google.com/presentation/d/1P_Eta5XqYSSyJ0hHlKuRMU0vfQlIpyqcbIE2pWNn5lY/edit?usp=sharing
